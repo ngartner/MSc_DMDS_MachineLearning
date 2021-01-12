@@ -1,0 +1,15 @@
+What is your level in Maths (1-5) 1- Very basic / 5-Bachelor of math level
+
+What is your level in Python (1-5) 1- You did not attend the Python class or understand anything during lastsemester / 5- You already have more than 6 months work experience of Python
+
+What is your level in and attraction to teamwork (1-5) ? 1-No experience and hate it 5-More than 6 months work experience and love it
+
+What is your area of interest: 
+1. Business
+2. Marketing
+3. Other types of data engineering (Video games, Science, etc.) ?
+
+Do you have previous experience in Machine Learning (Yes/No) ?
+If yes, explain it:
+
+Suggest 2 person you would like to work with:
